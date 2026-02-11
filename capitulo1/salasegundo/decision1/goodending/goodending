@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>  
+    <meta charset="UTF-8"> 
+    <title> Final bueno </title>
+</head>
+<body style="background-color:midnightblue !important"> </body>>
+    <header>
+        <h1 style="color:white;">Un final</h1>
+    </header>
+    <main>
+        <p style="color:white;">Te acuerdas que a tu perro le gusta purrina dog chow Una combinación de sabores con cinco deliciosas proteínas: carne, pollo, salmón, cerdo y pavo. En cada bocado tu perro disfrutará de una experiencia MULTI sabor junto con la excelente nutrición
+            le traes purrina dog chow al ente y te das cuenta que fue tu perro, todos vivieron felices para siempre
+        </p>
+    </main> 
+    <img src="good.png" alt="?" width="500" height="500">
+
+    <footer>
+        <small style="color:white;">Aventura interactiva Laboratorio CYOA</small>
+    </footer>
+</body>
